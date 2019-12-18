@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/.github.io/movie-app-react-redux-router/static/css/main.3ba39aa0.chunk.css",
+    "main.js": "/.github.io/movie-app-react-redux-router/static/js/main.aa83310e.chunk.js",
+    "main.js.map": "/.github.io/movie-app-react-redux-router/static/js/main.aa83310e.chunk.js.map",
+    "runtime-main.js": "/.github.io/movie-app-react-redux-router/static/js/runtime-main.8bab6ed2.js",
+    "runtime-main.js.map": "/.github.io/movie-app-react-redux-router/static/js/runtime-main.8bab6ed2.js.map",
+    "static/js/2.b3fcd267.chunk.js": "/.github.io/movie-app-react-redux-router/static/js/2.b3fcd267.chunk.js",
+    "static/js/2.b3fcd267.chunk.js.map": "/.github.io/movie-app-react-redux-router/static/js/2.b3fcd267.chunk.js.map",
+    "index.html": "/.github.io/movie-app-react-redux-router/index.html",
+    "precache-manifest.e626f86a626b6ad44c5955e5a5939ff0.js": "/.github.io/movie-app-react-redux-router/precache-manifest.e626f86a626b6ad44c5955e5a5939ff0.js",
+    "service-worker.js": "/.github.io/movie-app-react-redux-router/service-worker.js",
+    "static/css/main.3ba39aa0.chunk.css.map": "/.github.io/movie-app-react-redux-router/static/css/main.3ba39aa0.chunk.css.map",
+    "static/js/2.b3fcd267.chunk.js.LICENSE": "/.github.io/movie-app-react-redux-router/static/js/2.b3fcd267.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bab6ed2.js",
+    "static/js/2.b3fcd267.chunk.js",
+    "static/css/main.3ba39aa0.chunk.css",
+    "static/js/main.aa83310e.chunk.js"
+  ]
+}
